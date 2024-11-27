@@ -1,2 +1,2 @@
 # StudioJanneNascimento
-Landing Page
+Landing Page do studio 
